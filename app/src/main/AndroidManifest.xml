@@ -43,7 +43,22 @@
         <activity android:name=".Activity4_6" />
         <activity android:name=".Activity4_7" />
         <activity android:name=".Activity4_8" />
-        <activity android:name=".Score"></activity>
+        <activity android:name=".Score" />
+        <activity android:name=".Activity2_9" />
+        <activity android:name=".Activity2_10" />
+        <activity android:name=".Activity2_11" />
+        <activity android:name=".Activity2_12" />
+        <activity android:name=".Activity2_13" />
+        <activity android:name=".Activity3_11" />
+        <activity android:name=".Activity3_12" />
+        <activity android:name=".Activity3_13" />
+        <activity android:name=".Activity3_9" />
+        <activity android:name=".Activity3_10" />
+        <activity android:name=".Activity4_9" />
+        <activity android:name=".Activity4_10" />
+        <activity android:name=".Activity4_11" />
+        <activity android:name=".Activity4_12" />
+        <activity android:name=".Activity4_13"></activity>
     </application>
 
 </manifest>
