@@ -49,16 +49,33 @@
         <activity android:name=".Activity2_11" />
         <activity android:name=".Activity2_12" />
         <activity android:name=".Activity2_13" />
+        <activity android:name=".Activity2_14" />
+        <activity android:name=".Activity2_15" />
+        <activity android:name=".Activity2_16" />
+        <activity android:name=".Activity2_17" />
+        <activity android:name=".Activity2_18" />
+
         <activity android:name=".Activity3_11" />
         <activity android:name=".Activity3_12" />
         <activity android:name=".Activity3_13" />
+        <activity android:name=".Activity3_14" />
+        <activity android:name=".Activity3_15" />
+        <activity android:name=".Activity3_16" />
+        <activity android:name=".Activity3_17" />
+        <activity android:name=".Activity3_18" />
         <activity android:name=".Activity3_9" />
         <activity android:name=".Activity3_10" />
         <activity android:name=".Activity4_9" />
         <activity android:name=".Activity4_10" />
         <activity android:name=".Activity4_11" />
         <activity android:name=".Activity4_12" />
-        <activity android:name=".Activity4_13"></activity>
+        <activity android:name=".Activity4_13"/>
+        <activity android:name=".Activity4_14"/>
+        <activity android:name=".Activity4_15"/>
+        <activity android:name=".Activity4_16"/>
+        <activity android:name=".Activity4_17"/>
+        <activity android:name=".Activity4_18">
+        </activity>
     </application>
 
 </manifest>

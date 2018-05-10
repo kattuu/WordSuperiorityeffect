@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context="e.vishal.wordsuperiorityeffect.Activity2_14">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="64dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginRight="29dp"
+        android:gravity="center"
+
+        android:alpha="0.9"
+        android:text="SWHO"
+        android:textColor="#ffff"
+        android:textSize="32sp" />
+
+
+</RelativeLayout>

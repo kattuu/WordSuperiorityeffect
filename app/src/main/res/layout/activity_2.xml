@@ -19,7 +19,6 @@
         android:layout_marginRight="29dp"
         android:gravity="center"
 
-        android:alpha="0.2"
         android:text="CALF"
         android:textColor="#ffff"
         android:textSize="32sp" />

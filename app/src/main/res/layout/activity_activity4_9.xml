@@ -41,7 +41,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="85dp"
         android:gravity="center"
-        android:text="Result"
+        android:text="Next"
         android:id="@+id/button2" />
 
     <TextView

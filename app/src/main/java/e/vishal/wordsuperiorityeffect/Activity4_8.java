@@ -33,7 +33,7 @@ public class Activity4_8 extends AppCompatActivity {
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in =new Intent(getApplicationContext(),Score.class);
+                Intent in =new Intent(getApplicationContext(),Activity2_9.class);
                 startActivity(in);
             }
         });
